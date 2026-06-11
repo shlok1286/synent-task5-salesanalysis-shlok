@@ -72,8 +72,4 @@ This project analyzes the Sample Superstore dataset to identify sales trends, pr
 ## Conclusion
 This analysis provides a strong view of sales performance and profit drivers in the Sample Superstore dataset. The findings can help stakeholders optimize product selection, regional strategies, and promotions.
 
-## Future Improvements
-- Add predictive modeling for sales forecasting
-- Include customer segmentation analysis
-- Build an interactive dashboard for business users
-- Analyze shipping mode impact on sales and profit
+If you found this project interesting, consider giving the repository a star.
